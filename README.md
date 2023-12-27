@@ -1,1 +1,1 @@
-# Teste automatizados usando Cypress em uma aplicação Angular
+# Teste automatizado usando Cypress em uma aplicação Angular
